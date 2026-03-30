@@ -173,16 +173,7 @@ Cela garantit que **la classe métier fonctionne correctement quelle que soit l�
 
 ### 📌 Résultat avec le profil dev
 
-<img width="388" height="135" alt="Capture d&#39;écran 2026-03-12 220246" src="https://github.com/user-attachments/assets/958510dc-7e7f-4764-810b-b9a47931b85d" />
+<img width="861" height="298" alt="image" src="https://github.com/user-attachments/assets/62dc3820-8537-4689-9f74-41875c29932d" />
+<img width="843" height="254" alt="image" src="https://github.com/user-attachments/assets/eb40481c-1efb-40cd-9c54-b95bfd3acd7b" />
 
 
-### 📌 Résultat avec le profil prod
-
-<img width="372" height="146" alt="Capture d&#39;écran 2026-03-12 222321" src="https://github.com/user-attachments/assets/b76d7b6b-c218-4fce-81af-181573025878" />
-
-
-### 📌 Résultat avec le profil file
-
-![img.png](img.png)
-![img_1.png](img_1.png)
-![img_2.png](img_2.png)
